@@ -2,6 +2,51 @@
 Develop a smart contract for guess 1st, 2nd and 3rd positions
 
 
+ENGLISH
+
+
+
+The idea would be to create a smart contract where the prediction of 3 1st and 2nd teams that win the world championship is made.
+
+the entry would be 0.02 ETH
+
+and that it be published in just a link such a way that it is very easy to enter and forecast, echo from the list of teams, possible first 3.
+
+If there was not a winner of the first 3 places, we would do it to the nearest one, for example, I hit the 1st and 2nd, or maybe nobody got the 1st and if there were hits to the 2nd and 3rd.
+
+
+see some variables that could be given.
+
+
+In the end, it would not be necessary for the intelligent contract to communicate externally with some results API so as not to make it more complicated.
+
+and some administrator should be able to enter the winning teams.
+
+and that would compare with the results of the participants and the winner (s) would be chosen.
+
+it would be a list of countries in the variables, for example:
+
+0. Germany
+1. Argentina
+2. Brazil ... etc.
+
+The payment would go directly to the winners' wallet and that's it.
+
+
+It would reserve a 5% (more or less) for organization and etc etc ...
+
+who says me!
+
+It would be a link which could be shared in the cryptocurrency groups, someone will be interested, it is new, and the most fundamental thing is that the blockchain would be used and the contract would make the offers fulfilled.
+
+
+Christian!
+
+
+
+
+SPANISH
+
 
 La idea seria crear un smart contract donde se haga la prediccion de 3 equipos 1ro 2do y 3ro que ganen el mundial.
 
@@ -38,3 +83,8 @@ seria un link el cual se pudiera compartir en los grupos de criptomonedas, a alg
 
 
 Christian!
+
+
+
+
+
